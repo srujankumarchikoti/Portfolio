@@ -1,6 +1,6 @@
 # Hi, I'm Srujan
 
-Experienced Software Engineer with over 3+ years of hands-on expertise in designing, developing, and deploying Web Applications. Proficient in both Front-End and Back-End technologies,
+Experienced Software Engineer with over 4 years of hands-on expertise in designing, developing, and deploying Web Applications. Proficient in both Front-End and Back-End technologies,
 
 I have a passion for creating robust, scalable, and user-friendly solutions.
 
